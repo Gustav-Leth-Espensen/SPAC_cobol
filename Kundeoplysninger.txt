@@ -1,0 +1,7 @@
+Lars123456 Lars	Hansen DK123456789012345 2500.75 DKK Vejvej 13 1 th Hillerød 3400 57 48144814 sjov@gmail.com
+Peter12345 Peter Jensen DK123456789012345 2500.75 DKK Vejvejvej 15 2 tv Allerød 3450 57 48141414 sjov1234@gmail.com
+Anne123456 Anne Annesen	DK123451234512345 10.03 DKK AnneVej 1	3 mf Østerbro 2100 99 12345678 Anne@gmail.com
+Asta123456 Asta Astasen	DK112233445566778 222333.12 DKK Astavej 9876 1 th København 1800 01 11223344 Asta@gmail.com
+Kasper1234 Kasper Kaspersen DK123412341234123 0.15 DKK Ksapervej 12 3 tv Aarhus 8000 12	12344321 Kasper@gmail.com
+
+

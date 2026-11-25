@@ -10,7 +10,7 @@
            01 Balance         PIC S9(7)V9(2) VALUE 123.32.
            01 Valutakode         PIC X(3).
        PROCEDURE DIVISION. 
-      * Nedenfor kommer en DISPLAY - COBOLs måde at skrive i konsollen
+
            MOVE "1234567890" to Kunde_id.
            MOVE "Lars" to Fornavn.
            MOVE "Hansen" to Efternavn.
